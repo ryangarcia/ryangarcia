@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+<!--![monkey](https://user-images.githubusercontent.com/6568662/133859938-a74fb963-1246-440d-9dfb-80445110442f.gif)
+
 **ryangarcia/ryangarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
